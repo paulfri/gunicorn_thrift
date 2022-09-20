@@ -80,7 +80,7 @@ for root, folders, files in os.walk('gunicorn_thrift'):
 
 
 setup(
-    name='gunicorn_thrift',
+    name='carta_gunicorn_thrift',
     version=__version__,
 
     description='Thrift server using gunicorn',
